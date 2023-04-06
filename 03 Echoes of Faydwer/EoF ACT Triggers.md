@@ -98,3 +98,4 @@
 
 <Spell N="Ripened Annihilation" T="50" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="The Pumpkin Headed Horseman" RC="T" />
 
+
