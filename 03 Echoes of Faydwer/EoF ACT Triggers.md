@@ -42,11 +42,11 @@
 
 > Othysis Muravian
 
-<Trigger R="Come forth my brethren!" SD="Portal" ST="3" CR="F" C="Othysis Muravian" T="T" TN="Knockup" Ta="F" />
+<Trigger R="Come forth my brethren!" SD="Portal" ST="3" CR="F" C="Othysis Muravian" T="F" TN="" Ta="F" />
 
-<Trigger R="Through the portal, now!" SD="Portal" ST="3" CR="F" C="Othysis Muravian" T="T" TN="Knockup" Ta="F" />
+<Trigger R="Through the portal, now!" SD="Portal" ST="3" CR="F" C="Othysis Muravian" T="F" TN="" Ta="F" />
 
-<Trigger R="Othysis points a boney finger at (?&lt;name&gt;[a-zA-Z]+)" SD="${name} stunned" ST="3" CR="F" C="Othysis Muravian" T="T" TN="Knockup" Ta="F" />
+<Trigger R="Othysis points a boney finger at (?&lt;name&gt;[a-zA-Z]+)" SD="${name} stunned" ST="3" CR="F" C="Othysis Muravian" T="F" TN="" Ta="F" />
 
 > Malkonis D'Morte
 
