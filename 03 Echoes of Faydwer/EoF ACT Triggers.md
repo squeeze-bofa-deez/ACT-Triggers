@@ -24,6 +24,8 @@
 
 <Spell N="Furious Storm" T="53" OM="F" R="F" A="F" WV="10" RD="F" M="F" Tt="" FC="-8421505" RV="0" C="Prince Thirneg" RC="F" />
 
+<Spell N="Furious Storm" T="53" OM="F" R="F" A="F" WV="10" RD="F" M="F" Tt="" FC="-8421505" RV="0" C="a magical advisor" RC="F" />
+
 > Tender of the Seedlings
 
 <Spell N="Chilling Mist" T="50" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="Tender of the Seedlings" RC="T" />
