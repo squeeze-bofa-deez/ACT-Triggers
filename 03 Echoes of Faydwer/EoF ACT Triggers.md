@@ -72,8 +72,6 @@
 
 <Spell N="Blanket of Eternal Night" T="55" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="Mayong Mistmoore" RC="F" />
 
-<Spell N="Mayong's Touch" T="37" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="Mayong Mistmoore" RC="F" />
-
 <Spell N="Soul Paralysis" T="37" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="Mayong Mistmoore" RC="F" />
 
 ------------------------------------------------------------------------------------------------
@@ -83,6 +81,14 @@
 > Vampire Lord Mayong Mistmoore
 
 <Spell N="Ydalian Bolt" T="40" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="Vampire Lord Mayong Mistmoore" RC="F" />
+
+<Spell N="Blanket of Eternal Night" T="55" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="Vampire Lord Mayong Mistmoore" RC="F" />
+
+<Spell N="Mayong's Touch" T="37" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="Vampire Lord Mayong Mistmoore" RC="F" />
+
+<Spell N="Soul Paralysis" T="37" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="Vampire Lord Mayong Mistmoore" RC="F" />
+
+<Spell N="Mystmyrian Strike" T="65" OM="F" R="F" A="F" WV="10" RD="F" M="T" Tt="" FC="-16776961" RV="-15" C="Vampire Lord Mayong Mistmoore" RC="F" />
 
 ------------------------------------------------------------------------------------------------
 
