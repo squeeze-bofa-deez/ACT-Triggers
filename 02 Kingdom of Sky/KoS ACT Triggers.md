@@ -114,9 +114,9 @@
 
       <Spell N="Obsidian Shards" T="27" OM="F" R="F" A="F" WV="10" RD="T" M="F" Tt="" FC="-16776961" RV="-15" C="The Crusher" RC="F" />
 
-> A Greater Fungusman
+> The Ancient Fungus
 
-      ??
+      <Spell N="Venomous Cloud" T="53" OM="F" R="F" A="F" WV="10" RD="T" M="F" Tt="" FC="-16776961" RV="-15" C="The Ancient Fungus" RC="F" />
 
 > A Greater Boulder Elemental
 
