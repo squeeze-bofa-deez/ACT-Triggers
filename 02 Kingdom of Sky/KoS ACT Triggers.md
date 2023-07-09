@@ -118,10 +118,6 @@
 
       <Spell N="Venomous Cloud" T="53" OM="F" R="F" A="F" WV="10" RD="T" M="F" Tt="" FC="-16776961" RV="-15" C="The Ancient Fungus" RC="F" />
 
-> A Greater Boulder Elemental
-
-      ??
-
 > Xux'laio Master of the Fluttering Wing
 
       <Spell N="The Fluttering Wing" T="56" OM="F" R="F" A="F" WV="10" RD="F" M="F" Tt="" FC="-16776961" RV="-15" C="Xux'laio Master of the Fluttering Wing" RC="T" />
