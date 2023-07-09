@@ -194,7 +194,7 @@
 
 > The Barbed Duke
 
-      ??
+      <Spell N="Primal Fear" T="61" OM="F" R="F" A="F" WV="10" RD="T" M="F" Tt="" FC="-16776961" RV="-15" C="The Barbed Duke" RC="F" />
 
 > Bearer of the Carpus
 
